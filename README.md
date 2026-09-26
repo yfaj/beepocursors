@@ -30,7 +30,7 @@ Join the Discord: **[discord.gg/beep](https://discord.gg/beep)**
 <div align="center">
 
 <img src="logo.png" alt="" width="48">
-https://discord.gg/beep
+
 *Beepo Cursors* · CC BY-NC-SA 4.0 — see [LICENSE](LICENSE)
 
 </div>
