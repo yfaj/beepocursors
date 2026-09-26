@@ -5,8 +5,8 @@
 # Beepo Cursors
 
 **A quiet place to find Windows cursor packs.**
-**JOIN discord.gg/beep**
 Browse cursor packs, preview every cursor state, apply with one click. 
+JOIN discord.gg/beep
 <img src="app-screenshot.png" alt="Beepo Cursors app — Browse view" width="720">
 
 </div>
