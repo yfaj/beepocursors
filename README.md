@@ -6,7 +6,6 @@
 
 **A quiet place to find Windows cursor packs.**
 Browse cursor packs, preview every cursor state, apply with one click. 
-JOIN discord.gg/beep
 <img src="app-screenshot.png" alt="Beepo Cursors app — Browse view" width="720">
 
 </div>
@@ -27,7 +26,7 @@ Requires Windows 10/11. The uninstaller's **Delete application data** option rem
 <div align="center">
 
 <img src="logo.png" alt="" width="48">
-
+https://discord.gg/beep
 *Beepo Cursors* · CC BY-NC-SA 4.0 — see [LICENSE](LICENSE)
 
 </div>
