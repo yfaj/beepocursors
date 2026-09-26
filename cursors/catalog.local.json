@@ -1,0 +1,1142 @@
+{
+  "packs": [
+    {
+      "id": "athema-white-10074706",
+      "name": "Athema White",
+      "folder": "Athema White",
+      "author": "Anaidon",
+      "authorUrl": "https://www.deviantart.com/anaidon-aserra",
+      "license": "CC BY-NC 3.0",
+      "distribution": true,
+      "roles": {
+        "arrow": {
+          "file": "Anathema White Normal Select.cur",
+          "preview": "/generated/athema-white-10074706/arrow-preview.png",
+          "hover": "/generated/athema-white-10074706/arrow-hover.png",
+          "hotspot": [
+            1,
+            3
+          ]
+        },
+        "help": {
+          "file": "Anathema White Help Select.ani",
+          "preview": "/generated/athema-white-10074706/help-preview.png",
+          "hover": "/generated/athema-white-10074706/help-hover.webp",
+          "hotspot": [
+            1,
+            3
+          ]
+        },
+        "workingInBackground": {
+          "file": "Anathema White Working in Background.ani",
+          "preview": "/generated/athema-white-10074706/workingInBackground-preview.png",
+          "hover": "/generated/athema-white-10074706/workingInBackground-hover.webp",
+          "hotspot": [
+            1,
+            3
+          ]
+        },
+        "busy": {
+          "file": "Anathema White Busy.ani",
+          "preview": "/generated/athema-white-10074706/busy-preview.png",
+          "hover": "/generated/athema-white-10074706/busy-hover.webp",
+          "hotspot": [
+            9,
+            16
+          ]
+        },
+        "precisionSelect": {
+          "file": "Anathema White Precision Select.cur",
+          "preview": "/generated/athema-white-10074706/precisionSelect-preview.png",
+          "hover": "/generated/athema-white-10074706/precisionSelect-hover.png",
+          "hotspot": [
+            15,
+            15
+          ]
+        },
+        "textSelect": {
+          "file": "Anathema White Text Select.cur",
+          "preview": "/generated/athema-white-10074706/textSelect-preview.png",
+          "hover": "/generated/athema-white-10074706/textSelect-hover.png",
+          "hotspot": [
+            4,
+            9
+          ]
+        },
+        "handwriting": {
+          "file": "Anathema White Handwriting.ani",
+          "preview": "/generated/athema-white-10074706/handwriting-preview.png",
+          "hover": "/generated/athema-white-10074706/handwriting-hover.webp",
+          "hotspot": [
+            1,
+            3
+          ]
+        },
+        "unavailable": {
+          "file": "Anathema White Unavailable.cur",
+          "preview": "/generated/athema-white-10074706/unavailable-preview.png",
+          "hover": "/generated/athema-white-10074706/unavailable-hover.png",
+          "hotspot": [
+            9,
+            16
+          ]
+        },
+        "verticalResize": {
+          "file": "Anathema White Vertical Resize.ani",
+          "preview": "/generated/athema-white-10074706/verticalResize-preview.png",
+          "hover": "/generated/athema-white-10074706/verticalResize-hover.webp",
+          "hotspot": [
+            15,
+            15
+          ]
+        },
+        "horizontalResize": {
+          "file": "Anathema White Horizontal Resize.ani",
+          "preview": "/generated/athema-white-10074706/horizontalResize-preview.png",
+          "hover": "/generated/athema-white-10074706/horizontalResize-hover.webp",
+          "hotspot": [
+            15,
+            15
+          ]
+        },
+        "diagonalResize1": {
+          "file": "Anathema White Diagonal Resize 1.ani",
+          "preview": "/generated/athema-white-10074706/diagonalResize1-preview.png",
+          "hover": "/generated/athema-white-10074706/diagonalResize1-hover.webp",
+          "hotspot": [
+            15,
+            15
+          ]
+        },
+        "diagonalResize2": {
+          "file": "Anathema White Diagonal Resize 2.ani",
+          "preview": "/generated/athema-white-10074706/diagonalResize2-preview.png",
+          "hover": "/generated/athema-white-10074706/diagonalResize2-hover.webp",
+          "hotspot": [
+            15,
+            15
+          ]
+        },
+        "move": {
+          "file": "Anathema White Move.ani",
+          "preview": "/generated/athema-white-10074706/move-preview.png",
+          "hover": "/generated/athema-white-10074706/move-hover.webp",
+          "hotspot": [
+            15,
+            15
+          ]
+        },
+        "alternateSelect": {
+          "file": "Anathema White Alternate Select.ani",
+          "preview": "/generated/athema-white-10074706/alternateSelect-preview.png",
+          "hover": "/generated/athema-white-10074706/alternateSelect-hover.webp",
+          "hotspot": [
+            15,
+            0
+          ]
+        },
+        "linkSelect": {
+          "file": "Anathema White Link Select.cur",
+          "preview": "/generated/athema-white-10074706/linkSelect-preview.png",
+          "hover": "/generated/athema-white-10074706/linkSelect-hover.png",
+          "hotspot": [
+            7,
+            0
+          ]
+        }
+      },
+      "fingerprint": "a10ec74cac88d6135e2e3aea38e5c0a38015f6c1df44504e447ee5685736d1c9",
+      "preview": "/generated/athema-white-10074706/arrow-preview.png"
+    },
+    {
+      "id": "beepo-crosshair-fe5cd24b",
+      "name": "Beepo Crosshair",
+      "folder": "Beepo Crosshair",
+      "author": "Beepo",
+      "authorUrl": "",
+      "distribution": true,
+      "roles": {
+        "arrow": {
+          "file": "Arrow.cur",
+          "preview": "/generated/beepo-crosshair-fe5cd24b/arrow-preview.png",
+          "hover": "/generated/beepo-crosshair-fe5cd24b/arrow-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "help": {
+          "file": "Help.cur",
+          "preview": "/generated/beepo-crosshair-fe5cd24b/help-preview.png",
+          "hover": "/generated/beepo-crosshair-fe5cd24b/help-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "workingInBackground": {
+          "file": "Working.ani",
+          "preview": "/generated/beepo-crosshair-fe5cd24b/workingInBackground-preview.png",
+          "hover": "/generated/beepo-crosshair-fe5cd24b/workingInBackground-hover.webp",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "busy": {
+          "file": "Busy.ani",
+          "preview": "/generated/beepo-crosshair-fe5cd24b/busy-preview.png",
+          "hover": "/generated/beepo-crosshair-fe5cd24b/busy-hover.webp",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "precisionSelect": {
+          "file": "Precision.cur",
+          "preview": "/generated/beepo-crosshair-fe5cd24b/precisionSelect-preview.png",
+          "hover": "/generated/beepo-crosshair-fe5cd24b/precisionSelect-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "textSelect": {
+          "file": "Text.cur",
+          "preview": "/generated/beepo-crosshair-fe5cd24b/textSelect-preview.png",
+          "hover": "/generated/beepo-crosshair-fe5cd24b/textSelect-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "handwriting": {
+          "file": "Handwriting.cur",
+          "preview": "/generated/beepo-crosshair-fe5cd24b/handwriting-preview.png",
+          "hover": "/generated/beepo-crosshair-fe5cd24b/handwriting-hover.png",
+          "hotspot": [
+            6,
+            26
+          ]
+        },
+        "unavailable": {
+          "file": "Unavailable.cur",
+          "preview": "/generated/beepo-crosshair-fe5cd24b/unavailable-preview.png",
+          "hover": "/generated/beepo-crosshair-fe5cd24b/unavailable-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "verticalResize": {
+          "file": "Vertical Resize.cur",
+          "preview": "/generated/beepo-crosshair-fe5cd24b/verticalResize-preview.png",
+          "hover": "/generated/beepo-crosshair-fe5cd24b/verticalResize-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "horizontalResize": {
+          "file": "Horizontal Resize.cur",
+          "preview": "/generated/beepo-crosshair-fe5cd24b/horizontalResize-preview.png",
+          "hover": "/generated/beepo-crosshair-fe5cd24b/horizontalResize-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "diagonalResize1": {
+          "file": "Diagonal Resize 1.cur",
+          "preview": "/generated/beepo-crosshair-fe5cd24b/diagonalResize1-preview.png",
+          "hover": "/generated/beepo-crosshair-fe5cd24b/diagonalResize1-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "diagonalResize2": {
+          "file": "Diagonal Resize 2.cur",
+          "preview": "/generated/beepo-crosshair-fe5cd24b/diagonalResize2-preview.png",
+          "hover": "/generated/beepo-crosshair-fe5cd24b/diagonalResize2-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "move": {
+          "file": "Move.cur",
+          "preview": "/generated/beepo-crosshair-fe5cd24b/move-preview.png",
+          "hover": "/generated/beepo-crosshair-fe5cd24b/move-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "alternateSelect": {
+          "file": "Alternate.cur",
+          "preview": "/generated/beepo-crosshair-fe5cd24b/alternateSelect-preview.png",
+          "hover": "/generated/beepo-crosshair-fe5cd24b/alternateSelect-hover.png",
+          "hotspot": [
+            16,
+            4
+          ]
+        },
+        "linkSelect": {
+          "file": "Link.cur",
+          "preview": "/generated/beepo-crosshair-fe5cd24b/linkSelect-preview.png",
+          "hover": "/generated/beepo-crosshair-fe5cd24b/linkSelect-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "personSelect": {
+          "file": "Person.cur",
+          "preview": "/generated/beepo-crosshair-fe5cd24b/personSelect-preview.png",
+          "hover": "/generated/beepo-crosshair-fe5cd24b/personSelect-hover.png",
+          "hotspot": [
+            16,
+            9
+          ]
+        },
+        "locationSelect": {
+          "file": "Location.cur",
+          "preview": "/generated/beepo-crosshair-fe5cd24b/locationSelect-preview.png",
+          "hover": "/generated/beepo-crosshair-fe5cd24b/locationSelect-hover.png",
+          "hotspot": [
+            16,
+            27
+          ]
+        }
+      },
+      "fingerprint": "8c188404fd9c75f7468d2eb249ec9c3cb17db1abed84df642aa522f895eb016a",
+      "preview": "/generated/beepo-crosshair-fe5cd24b/arrow-preview.png"
+    },
+    {
+      "id": "beepo-crosshair-white-dc5cf998",
+      "name": "Beepo Crosshair (White)",
+      "folder": "Beepo Crosshair White",
+      "author": "Beepo",
+      "authorUrl": "",
+      "distribution": true,
+      "roles": {
+        "arrow": {
+          "file": "Arrow.cur",
+          "preview": "/generated/beepo-crosshair-white-dc5cf998/arrow-preview.png",
+          "hover": "/generated/beepo-crosshair-white-dc5cf998/arrow-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "help": {
+          "file": "Help.cur",
+          "preview": "/generated/beepo-crosshair-white-dc5cf998/help-preview.png",
+          "hover": "/generated/beepo-crosshair-white-dc5cf998/help-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "workingInBackground": {
+          "file": "Working.ani",
+          "preview": "/generated/beepo-crosshair-white-dc5cf998/workingInBackground-preview.png",
+          "hover": "/generated/beepo-crosshair-white-dc5cf998/workingInBackground-hover.webp",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "busy": {
+          "file": "Busy.ani",
+          "preview": "/generated/beepo-crosshair-white-dc5cf998/busy-preview.png",
+          "hover": "/generated/beepo-crosshair-white-dc5cf998/busy-hover.webp",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "precisionSelect": {
+          "file": "Precision.cur",
+          "preview": "/generated/beepo-crosshair-white-dc5cf998/precisionSelect-preview.png",
+          "hover": "/generated/beepo-crosshair-white-dc5cf998/precisionSelect-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "textSelect": {
+          "file": "Text.cur",
+          "preview": "/generated/beepo-crosshair-white-dc5cf998/textSelect-preview.png",
+          "hover": "/generated/beepo-crosshair-white-dc5cf998/textSelect-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "handwriting": {
+          "file": "Handwriting.cur",
+          "preview": "/generated/beepo-crosshair-white-dc5cf998/handwriting-preview.png",
+          "hover": "/generated/beepo-crosshair-white-dc5cf998/handwriting-hover.png",
+          "hotspot": [
+            6,
+            26
+          ]
+        },
+        "unavailable": {
+          "file": "Unavailable.cur",
+          "preview": "/generated/beepo-crosshair-white-dc5cf998/unavailable-preview.png",
+          "hover": "/generated/beepo-crosshair-white-dc5cf998/unavailable-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "verticalResize": {
+          "file": "Vertical Resize.cur",
+          "preview": "/generated/beepo-crosshair-white-dc5cf998/verticalResize-preview.png",
+          "hover": "/generated/beepo-crosshair-white-dc5cf998/verticalResize-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "horizontalResize": {
+          "file": "Horizontal Resize.cur",
+          "preview": "/generated/beepo-crosshair-white-dc5cf998/horizontalResize-preview.png",
+          "hover": "/generated/beepo-crosshair-white-dc5cf998/horizontalResize-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "diagonalResize1": {
+          "file": "Diagonal Resize 1.cur",
+          "preview": "/generated/beepo-crosshair-white-dc5cf998/diagonalResize1-preview.png",
+          "hover": "/generated/beepo-crosshair-white-dc5cf998/diagonalResize1-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "diagonalResize2": {
+          "file": "Diagonal Resize 2.cur",
+          "preview": "/generated/beepo-crosshair-white-dc5cf998/diagonalResize2-preview.png",
+          "hover": "/generated/beepo-crosshair-white-dc5cf998/diagonalResize2-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "move": {
+          "file": "Move.cur",
+          "preview": "/generated/beepo-crosshair-white-dc5cf998/move-preview.png",
+          "hover": "/generated/beepo-crosshair-white-dc5cf998/move-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "alternateSelect": {
+          "file": "Alternate.cur",
+          "preview": "/generated/beepo-crosshair-white-dc5cf998/alternateSelect-preview.png",
+          "hover": "/generated/beepo-crosshair-white-dc5cf998/alternateSelect-hover.png",
+          "hotspot": [
+            16,
+            4
+          ]
+        },
+        "linkSelect": {
+          "file": "Link.cur",
+          "preview": "/generated/beepo-crosshair-white-dc5cf998/linkSelect-preview.png",
+          "hover": "/generated/beepo-crosshair-white-dc5cf998/linkSelect-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "personSelect": {
+          "file": "Person.cur",
+          "preview": "/generated/beepo-crosshair-white-dc5cf998/personSelect-preview.png",
+          "hover": "/generated/beepo-crosshair-white-dc5cf998/personSelect-hover.png",
+          "hotspot": [
+            16,
+            9
+          ]
+        },
+        "locationSelect": {
+          "file": "Location.cur",
+          "preview": "/generated/beepo-crosshair-white-dc5cf998/locationSelect-preview.png",
+          "hover": "/generated/beepo-crosshair-white-dc5cf998/locationSelect-hover.png",
+          "hotspot": [
+            16,
+            27
+          ]
+        }
+      },
+      "fingerprint": "bf00ff794b7d3fe2ce38af36f50d9b18156cb983614689ad5bce3bf174959575",
+      "preview": "/generated/beepo-crosshair-white-dc5cf998/arrow-preview.png"
+    },
+    {
+      "id": "beepo-crosshair-mini-f7c1b54e",
+      "name": "Beepo Crosshair Mini",
+      "folder": "Beepo Crosshair Mini",
+      "author": "Beepo Cursors",
+      "authorUrl": "",
+      "distribution": true,
+      "roles": {
+        "arrow": {
+          "file": "Arrow.cur",
+          "preview": "/generated/beepo-crosshair-mini-f7c1b54e/arrow-preview.png",
+          "hover": "/generated/beepo-crosshair-mini-f7c1b54e/arrow-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "help": {
+          "file": "Help.cur",
+          "preview": "/generated/beepo-crosshair-mini-f7c1b54e/help-preview.png",
+          "hover": "/generated/beepo-crosshair-mini-f7c1b54e/help-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "workingInBackground": {
+          "file": "Working.ani",
+          "preview": "/generated/beepo-crosshair-mini-f7c1b54e/workingInBackground-preview.png",
+          "hover": "/generated/beepo-crosshair-mini-f7c1b54e/workingInBackground-hover.webp",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "busy": {
+          "file": "Busy.ani",
+          "preview": "/generated/beepo-crosshair-mini-f7c1b54e/busy-preview.png",
+          "hover": "/generated/beepo-crosshair-mini-f7c1b54e/busy-hover.webp",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "precisionSelect": {
+          "file": "Precision.cur",
+          "preview": "/generated/beepo-crosshair-mini-f7c1b54e/precisionSelect-preview.png",
+          "hover": "/generated/beepo-crosshair-mini-f7c1b54e/precisionSelect-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "textSelect": {
+          "file": "Text.cur",
+          "preview": "/generated/beepo-crosshair-mini-f7c1b54e/textSelect-preview.png",
+          "hover": "/generated/beepo-crosshair-mini-f7c1b54e/textSelect-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "handwriting": {
+          "file": "Handwriting.cur",
+          "preview": "/generated/beepo-crosshair-mini-f7c1b54e/handwriting-preview.png",
+          "hover": "/generated/beepo-crosshair-mini-f7c1b54e/handwriting-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "unavailable": {
+          "file": "Unavailable.cur",
+          "preview": "/generated/beepo-crosshair-mini-f7c1b54e/unavailable-preview.png",
+          "hover": "/generated/beepo-crosshair-mini-f7c1b54e/unavailable-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "verticalResize": {
+          "file": "Vertical Resize.cur",
+          "preview": "/generated/beepo-crosshair-mini-f7c1b54e/verticalResize-preview.png",
+          "hover": "/generated/beepo-crosshair-mini-f7c1b54e/verticalResize-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "horizontalResize": {
+          "file": "Horizontal Resize.cur",
+          "preview": "/generated/beepo-crosshair-mini-f7c1b54e/horizontalResize-preview.png",
+          "hover": "/generated/beepo-crosshair-mini-f7c1b54e/horizontalResize-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "diagonalResize1": {
+          "file": "Diagonal Resize 1.cur",
+          "preview": "/generated/beepo-crosshair-mini-f7c1b54e/diagonalResize1-preview.png",
+          "hover": "/generated/beepo-crosshair-mini-f7c1b54e/diagonalResize1-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "diagonalResize2": {
+          "file": "Diagonal Resize 2.cur",
+          "preview": "/generated/beepo-crosshair-mini-f7c1b54e/diagonalResize2-preview.png",
+          "hover": "/generated/beepo-crosshair-mini-f7c1b54e/diagonalResize2-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "move": {
+          "file": "Move.cur",
+          "preview": "/generated/beepo-crosshair-mini-f7c1b54e/move-preview.png",
+          "hover": "/generated/beepo-crosshair-mini-f7c1b54e/move-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "alternateSelect": {
+          "file": "Alternate.cur",
+          "preview": "/generated/beepo-crosshair-mini-f7c1b54e/alternateSelect-preview.png",
+          "hover": "/generated/beepo-crosshair-mini-f7c1b54e/alternateSelect-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "linkSelect": {
+          "file": "Link.cur",
+          "preview": "/generated/beepo-crosshair-mini-f7c1b54e/linkSelect-preview.png",
+          "hover": "/generated/beepo-crosshair-mini-f7c1b54e/linkSelect-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "personSelect": {
+          "file": "Person.cur",
+          "preview": "/generated/beepo-crosshair-mini-f7c1b54e/personSelect-preview.png",
+          "hover": "/generated/beepo-crosshair-mini-f7c1b54e/personSelect-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "locationSelect": {
+          "file": "Location.cur",
+          "preview": "/generated/beepo-crosshair-mini-f7c1b54e/locationSelect-preview.png",
+          "hover": "/generated/beepo-crosshair-mini-f7c1b54e/locationSelect-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        }
+      },
+      "fingerprint": "2eff5334869651ef2c56aee74ce31ac6aa81ed7e6469a9c137bace1ffba21ab1",
+      "preview": "/generated/beepo-crosshair-mini-f7c1b54e/arrow-preview.png"
+    },
+    {
+      "id": "beepo-pop-6e1635a1",
+      "name": "Beepo Pop",
+      "folder": "Beepo Pop",
+      "author": "Beepo Cursors",
+      "authorUrl": "",
+      "distribution": true,
+      "roles": {
+        "arrow": {
+          "file": "Arrow.cur",
+          "preview": "/generated/beepo-pop-6e1635a1/arrow-preview.png",
+          "hover": "/generated/beepo-pop-6e1635a1/arrow-hover.png",
+          "hotspot": [
+            6,
+            4
+          ]
+        },
+        "help": {
+          "file": "Help.cur",
+          "preview": "/generated/beepo-pop-6e1635a1/help-preview.png",
+          "hover": "/generated/beepo-pop-6e1635a1/help-hover.png",
+          "hotspot": [
+            6,
+            4
+          ]
+        },
+        "workingInBackground": {
+          "file": "Working.ani",
+          "preview": "/generated/beepo-pop-6e1635a1/workingInBackground-preview.png",
+          "hover": "/generated/beepo-pop-6e1635a1/workingInBackground-hover.webp",
+          "hotspot": [
+            6,
+            4
+          ]
+        },
+        "busy": {
+          "file": "Busy.ani",
+          "preview": "/generated/beepo-pop-6e1635a1/busy-preview.png",
+          "hover": "/generated/beepo-pop-6e1635a1/busy-hover.webp",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "precisionSelect": {
+          "file": "Precision.cur",
+          "preview": "/generated/beepo-pop-6e1635a1/precisionSelect-preview.png",
+          "hover": "/generated/beepo-pop-6e1635a1/precisionSelect-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "textSelect": {
+          "file": "Text.cur",
+          "preview": "/generated/beepo-pop-6e1635a1/textSelect-preview.png",
+          "hover": "/generated/beepo-pop-6e1635a1/textSelect-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "handwriting": {
+          "file": "Handwriting.cur",
+          "preview": "/generated/beepo-pop-6e1635a1/handwriting-preview.png",
+          "hover": "/generated/beepo-pop-6e1635a1/handwriting-hover.png",
+          "hotspot": [
+            6,
+            26
+          ]
+        },
+        "unavailable": {
+          "file": "Unavailable.cur",
+          "preview": "/generated/beepo-pop-6e1635a1/unavailable-preview.png",
+          "hover": "/generated/beepo-pop-6e1635a1/unavailable-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "verticalResize": {
+          "file": "Vertical Resize.cur",
+          "preview": "/generated/beepo-pop-6e1635a1/verticalResize-preview.png",
+          "hover": "/generated/beepo-pop-6e1635a1/verticalResize-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "horizontalResize": {
+          "file": "Horizontal Resize.cur",
+          "preview": "/generated/beepo-pop-6e1635a1/horizontalResize-preview.png",
+          "hover": "/generated/beepo-pop-6e1635a1/horizontalResize-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "diagonalResize1": {
+          "file": "Diagonal Resize 1.cur",
+          "preview": "/generated/beepo-pop-6e1635a1/diagonalResize1-preview.png",
+          "hover": "/generated/beepo-pop-6e1635a1/diagonalResize1-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "diagonalResize2": {
+          "file": "Diagonal Resize 2.cur",
+          "preview": "/generated/beepo-pop-6e1635a1/diagonalResize2-preview.png",
+          "hover": "/generated/beepo-pop-6e1635a1/diagonalResize2-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "move": {
+          "file": "Move.cur",
+          "preview": "/generated/beepo-pop-6e1635a1/move-preview.png",
+          "hover": "/generated/beepo-pop-6e1635a1/move-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "alternateSelect": {
+          "file": "Alternate.cur",
+          "preview": "/generated/beepo-pop-6e1635a1/alternateSelect-preview.png",
+          "hover": "/generated/beepo-pop-6e1635a1/alternateSelect-hover.png",
+          "hotspot": [
+            16,
+            4
+          ]
+        },
+        "linkSelect": {
+          "file": "Link.cur",
+          "preview": "/generated/beepo-pop-6e1635a1/linkSelect-preview.png",
+          "hover": "/generated/beepo-pop-6e1635a1/linkSelect-hover.png",
+          "hotspot": [
+            6,
+            4
+          ]
+        },
+        "personSelect": {
+          "file": "Person.cur",
+          "preview": "/generated/beepo-pop-6e1635a1/personSelect-preview.png",
+          "hover": "/generated/beepo-pop-6e1635a1/personSelect-hover.png",
+          "hotspot": [
+            16,
+            9
+          ]
+        },
+        "locationSelect": {
+          "file": "Location.cur",
+          "preview": "/generated/beepo-pop-6e1635a1/locationSelect-preview.png",
+          "hover": "/generated/beepo-pop-6e1635a1/locationSelect-hover.png",
+          "hotspot": [
+            16,
+            27
+          ]
+        }
+      },
+      "fingerprint": "58e424fc146eb510c443228df60b30052459a7d8fccbff47f513bd310121e6c8",
+      "preview": "/generated/beepo-pop-6e1635a1/arrow-preview.png"
+    },
+    {
+      "id": "beepo-rounded-294689c2",
+      "name": "Beepo Rounded",
+      "folder": "Beepo Rounded",
+      "author": "Beepo Cursors",
+      "authorUrl": "",
+      "distribution": true,
+      "roles": {
+        "arrow": {
+          "file": "Arrow.cur",
+          "preview": "/generated/beepo-rounded-294689c2/arrow-preview.png",
+          "hover": "/generated/beepo-rounded-294689c2/arrow-hover.png",
+          "hotspot": [
+            5,
+            2
+          ]
+        },
+        "help": {
+          "file": "Help.cur",
+          "preview": "/generated/beepo-rounded-294689c2/help-preview.png",
+          "hover": "/generated/beepo-rounded-294689c2/help-hover.png",
+          "hotspot": [
+            5,
+            2
+          ]
+        },
+        "workingInBackground": {
+          "file": "Working.ani",
+          "preview": "/generated/beepo-rounded-294689c2/workingInBackground-preview.png",
+          "hover": "/generated/beepo-rounded-294689c2/workingInBackground-hover.webp",
+          "hotspot": [
+            5,
+            2
+          ]
+        },
+        "busy": {
+          "file": "Busy.ani",
+          "preview": "/generated/beepo-rounded-294689c2/busy-preview.png",
+          "hover": "/generated/beepo-rounded-294689c2/busy-hover.webp",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "precisionSelect": {
+          "file": "Precision.cur",
+          "preview": "/generated/beepo-rounded-294689c2/precisionSelect-preview.png",
+          "hover": "/generated/beepo-rounded-294689c2/precisionSelect-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "textSelect": {
+          "file": "Text.cur",
+          "preview": "/generated/beepo-rounded-294689c2/textSelect-preview.png",
+          "hover": "/generated/beepo-rounded-294689c2/textSelect-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "handwriting": {
+          "file": "Handwriting.cur",
+          "preview": "/generated/beepo-rounded-294689c2/handwriting-preview.png",
+          "hover": "/generated/beepo-rounded-294689c2/handwriting-hover.png",
+          "hotspot": [
+            6,
+            26
+          ]
+        },
+        "unavailable": {
+          "file": "Unavailable.cur",
+          "preview": "/generated/beepo-rounded-294689c2/unavailable-preview.png",
+          "hover": "/generated/beepo-rounded-294689c2/unavailable-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "verticalResize": {
+          "file": "Vertical Resize.cur",
+          "preview": "/generated/beepo-rounded-294689c2/verticalResize-preview.png",
+          "hover": "/generated/beepo-rounded-294689c2/verticalResize-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "horizontalResize": {
+          "file": "Horizontal Resize.cur",
+          "preview": "/generated/beepo-rounded-294689c2/horizontalResize-preview.png",
+          "hover": "/generated/beepo-rounded-294689c2/horizontalResize-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "diagonalResize1": {
+          "file": "Diagonal Resize 1.cur",
+          "preview": "/generated/beepo-rounded-294689c2/diagonalResize1-preview.png",
+          "hover": "/generated/beepo-rounded-294689c2/diagonalResize1-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "diagonalResize2": {
+          "file": "Diagonal Resize 2.cur",
+          "preview": "/generated/beepo-rounded-294689c2/diagonalResize2-preview.png",
+          "hover": "/generated/beepo-rounded-294689c2/diagonalResize2-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "move": {
+          "file": "Move.cur",
+          "preview": "/generated/beepo-rounded-294689c2/move-preview.png",
+          "hover": "/generated/beepo-rounded-294689c2/move-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "alternateSelect": {
+          "file": "Alternate.cur",
+          "preview": "/generated/beepo-rounded-294689c2/alternateSelect-preview.png",
+          "hover": "/generated/beepo-rounded-294689c2/alternateSelect-hover.png",
+          "hotspot": [
+            16,
+            4
+          ]
+        },
+        "linkSelect": {
+          "file": "Link.cur",
+          "preview": "/generated/beepo-rounded-294689c2/linkSelect-preview.png",
+          "hover": "/generated/beepo-rounded-294689c2/linkSelect-hover.png",
+          "hotspot": [
+            5,
+            2
+          ]
+        },
+        "personSelect": {
+          "file": "Person.cur",
+          "preview": "/generated/beepo-rounded-294689c2/personSelect-preview.png",
+          "hover": "/generated/beepo-rounded-294689c2/personSelect-hover.png",
+          "hotspot": [
+            16,
+            9
+          ]
+        },
+        "locationSelect": {
+          "file": "Location.cur",
+          "preview": "/generated/beepo-rounded-294689c2/locationSelect-preview.png",
+          "hover": "/generated/beepo-rounded-294689c2/locationSelect-hover.png",
+          "hotspot": [
+            16,
+            27
+          ]
+        }
+      },
+      "fingerprint": "4999cae83518dfb3863722d5641664a964e18134d82c7179a24ea807dc1b7b05",
+      "preview": "/generated/beepo-rounded-294689c2/arrow-preview.png"
+    },
+    {
+      "id": "pink-monster-ae8277fd",
+      "name": "Pink Monster",
+      "folder": "Pink Monster",
+      "author": "Beepo Cursors",
+      "authorUrl": "",
+      "distribution": true,
+      "roles": {
+        "arrow": {
+          "file": "Arrow.cur",
+          "preview": "/generated/pink-monster-ae8277fd/arrow-preview.png",
+          "hover": "/generated/pink-monster-ae8277fd/arrow-hover.png",
+          "hotspot": [
+            10,
+            4
+          ]
+        },
+        "help": {
+          "file": "Help.cur",
+          "preview": "/generated/pink-monster-ae8277fd/help-preview.png",
+          "hover": "/generated/pink-monster-ae8277fd/help-hover.png",
+          "hotspot": [
+            10,
+            4
+          ]
+        },
+        "workingInBackground": {
+          "file": "Working.cur",
+          "preview": "/generated/pink-monster-ae8277fd/workingInBackground-preview.png",
+          "hover": "/generated/pink-monster-ae8277fd/workingInBackground-hover.png",
+          "hotspot": [
+            10,
+            4
+          ]
+        },
+        "busy": {
+          "file": "Busy.cur",
+          "preview": "/generated/pink-monster-ae8277fd/busy-preview.png",
+          "hover": "/generated/pink-monster-ae8277fd/busy-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "precisionSelect": {
+          "file": "Precision.cur",
+          "preview": "/generated/pink-monster-ae8277fd/precisionSelect-preview.png",
+          "hover": "/generated/pink-monster-ae8277fd/precisionSelect-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "textSelect": {
+          "file": "Text.cur",
+          "preview": "/generated/pink-monster-ae8277fd/textSelect-preview.png",
+          "hover": "/generated/pink-monster-ae8277fd/textSelect-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "handwriting": {
+          "file": "Handwriting.cur",
+          "preview": "/generated/pink-monster-ae8277fd/handwriting-preview.png",
+          "hover": "/generated/pink-monster-ae8277fd/handwriting-hover.png",
+          "hotspot": [
+            24,
+            27
+          ]
+        },
+        "unavailable": {
+          "file": "Unavailable.cur",
+          "preview": "/generated/pink-monster-ae8277fd/unavailable-preview.png",
+          "hover": "/generated/pink-monster-ae8277fd/unavailable-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "verticalResize": {
+          "file": "Vertical Resize.cur",
+          "preview": "/generated/pink-monster-ae8277fd/verticalResize-preview.png",
+          "hover": "/generated/pink-monster-ae8277fd/verticalResize-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "horizontalResize": {
+          "file": "Horizontal Resize.cur",
+          "preview": "/generated/pink-monster-ae8277fd/horizontalResize-preview.png",
+          "hover": "/generated/pink-monster-ae8277fd/horizontalResize-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "diagonalResize1": {
+          "file": "Diagonal Resize 1.cur",
+          "preview": "/generated/pink-monster-ae8277fd/diagonalResize1-preview.png",
+          "hover": "/generated/pink-monster-ae8277fd/diagonalResize1-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "diagonalResize2": {
+          "file": "Diagonal Resize 2.cur",
+          "preview": "/generated/pink-monster-ae8277fd/diagonalResize2-preview.png",
+          "hover": "/generated/pink-monster-ae8277fd/diagonalResize2-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "move": {
+          "file": "Move.cur",
+          "preview": "/generated/pink-monster-ae8277fd/move-preview.png",
+          "hover": "/generated/pink-monster-ae8277fd/move-hover.png",
+          "hotspot": [
+            16,
+            16
+          ]
+        },
+        "alternateSelect": {
+          "file": "Alternate.cur",
+          "preview": "/generated/pink-monster-ae8277fd/alternateSelect-preview.png",
+          "hover": "/generated/pink-monster-ae8277fd/alternateSelect-hover.png",
+          "hotspot": [
+            10,
+            5
+          ]
+        },
+        "linkSelect": {
+          "file": "Link.cur",
+          "preview": "/generated/pink-monster-ae8277fd/linkSelect-preview.png",
+          "hover": "/generated/pink-monster-ae8277fd/linkSelect-hover.png",
+          "hotspot": [
+            10,
+            4
+          ]
+        },
+        "personSelect": {
+          "file": "Person.cur",
+          "preview": "/generated/pink-monster-ae8277fd/personSelect-preview.png",
+          "hover": "/generated/pink-monster-ae8277fd/personSelect-hover.png",
+          "hotspot": [
+            10,
+            4
+          ]
+        },
+        "locationSelect": {
+          "file": "Location.cur",
+          "preview": "/generated/pink-monster-ae8277fd/locationSelect-preview.png",
+          "hover": "/generated/pink-monster-ae8277fd/locationSelect-hover.png",
+          "hotspot": [
+            24,
+            27
+          ]
+        }
+      },
+      "fingerprint": "d69e31e2e835fff893b62ab7a45347af964c63a9d6f08e8b7782127c70073560",
+      "preview": "/generated/pink-monster-ae8277fd/arrow-preview.png"
+    }
+  ]
+}

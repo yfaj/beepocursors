@@ -1,0 +1,36 @@
+node_modules/
+.pnpm-store/
+dist/
+_site/
+_downloads/
+private/
+release/
+src-tauri/target/
+src-tauri/gen/
+website/private/
+*.log
+VPS_CONNECTION.md
+
+# docs + AI/tooling traces stay local
+*.md
+!/LICENSE
+!/README.md
+.agents/
+.codex/
+.freebuff/
+__pycache__/
+
+# 3rd-party cursor packs without redistribution license - local only, see CREDITS.md
+cursors/FTBIY Cursors 0.1/
+cursors/FTBIY Cursor 0.2/
+cursors/avalanche cursor/
+cursors/free_cursors_pack_by_stardust2955_djsmdri/
+
+# generated assets of unlicensed packs stay local, see cursors/sources.json
+public/generated/*
+!public/generated/athema-white-*/
+!public/generated/beepo-*/
+!public/generated/pink-monster-*/
+
+# local-only build art (pink monster sheets etc.)
+assets/

@@ -1,0 +1,24 @@
+{
+  "name": "Beepo Crosshair",
+  "author": "Beepo",
+  "authorUrl": "",
+  "roles": {
+    "arrow": "Arrow.cur",
+    "help": "Help.cur",
+    "workingInBackground": "Working.ani",
+    "busy": "Busy.ani",
+    "precisionSelect": "Precision.cur",
+    "textSelect": "Text.cur",
+    "handwriting": "Handwriting.cur",
+    "unavailable": "Unavailable.cur",
+    "verticalResize": "Vertical Resize.cur",
+    "horizontalResize": "Horizontal Resize.cur",
+    "diagonalResize1": "Diagonal Resize 1.cur",
+    "diagonalResize2": "Diagonal Resize 2.cur",
+    "move": "Move.cur",
+    "alternateSelect": "Alternate.cur",
+    "linkSelect": "Link.cur",
+    "personSelect": "Person.cur",
+    "locationSelect": "Location.cur"
+  }
+}
