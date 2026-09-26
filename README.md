@@ -23,6 +23,10 @@ Grab the latest **installer** or **portable** build from [Releases](https://gith
 
 Requires Windows 10/11. The uninstaller's **Delete application data** option removes downloaded and imported packs.
 
+## Community
+
+Join the Discord: **[discord.gg/beep](https://discord.gg/beep)**
+
 <div align="center">
 
 <img src="logo.png" alt="" width="48">
