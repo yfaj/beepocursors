@@ -1,0 +1,41 @@
+{
+  "name": "Athema White",
+  "author": "Anaidon",
+  "authorUrl": "https://www.deviantart.com/anaidon-aserra",
+  "license": "CC BY-NC 3.0",
+  "preview": "previews/Anathema White Normal Select.png",
+  "hotspots": {
+    "Anathema White Alternate Select": [15, 0],
+    "Anathema White Busy": [9, 16],
+    "Anathema White Diagonal Resize 1": [15, 15],
+    "Anathema White Diagonal Resize 2": [15, 15],
+    "Anathema White Handwriting": [1, 3],
+    "Anathema White Help Select": [1, 3],
+    "Anathema White Horizontal Resize": [15, 15],
+    "Anathema White Link Select": [7, 0],
+    "Anathema White Move": [15, 15],
+    "Anathema White Normal Select": [1, 3],
+    "Anathema White Precision Select": [15, 15],
+    "Anathema White Text Select": [4, 9],
+    "Anathema White Unavailable": [9, 16],
+    "Anathema White Vertical Resize": [15, 15],
+    "Anathema White Working in Background": [1, 3]
+  },
+  "roles": {
+    "arrow": "Anathema White Normal Select.cur",
+    "help": "Anathema White Help Select.ani",
+    "workingInBackground": "Anathema White Working in Background.ani",
+    "busy": "Anathema White Busy.ani",
+    "precisionSelect": "Anathema White Precision Select.cur",
+    "textSelect": "Anathema White Text Select.cur",
+    "handwriting": "Anathema White Handwriting.ani",
+    "unavailable": "Anathema White Unavailable.cur",
+    "verticalResize": "Anathema White Vertical Resize.ani",
+    "horizontalResize": "Anathema White Horizontal Resize.ani",
+    "diagonalResize1": "Anathema White Diagonal Resize 1.ani",
+    "diagonalResize2": "Anathema White Diagonal Resize 2.ani",
+    "move": "Anathema White Move.ani",
+    "alternateSelect": "Anathema White Alternate Select.ani",
+    "linkSelect": "Anathema White Link Select.cur"
+  }
+}
