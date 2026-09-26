@@ -157,6 +157,21 @@ def main() -> int:
         '.find((script) => new URL(script.getAttribute("src") || "", window.location.href).pathname.endsWith("/catalog.js"));',
         "menu catalog script probe",
     )
+    menu = patch(
+        menu,
+        'document.querySelectorAll(".top-tab[href]").forEach((link) => {\n'
+        '    const requestedView = new URL(link.href, window.location.href).pathname.includes("browse")\n'
+        '      ? "browse"\n'
+        '      : new URL(link.href, window.location.href).pathname.includes("download")\n'
+        '        ? "download"\n'
+        '        : "home";',
+        'const siteRoot = window.location.pathname.replace(/(browse|download)\/?$/, "");\n'
+        '  document.querySelectorAll(".top-tab[href]").forEach((link) => {\n'
+        '    const label = (link.textContent || "").trim().toLowerCase();\n'
+        '    const requestedView = label === "browse" ? "browse" : label === "download" ? "download" : "home";\n'
+        '    link.href = siteRoot + (requestedView === "home" ? "" : requestedView + "/");',
+        "menu nav depth",
+    )
     emit(out, "menu.js", menu)
     catalog_js = patch(
         (WEBSITE / "catalog.js").read_text(encoding="utf-8"),
